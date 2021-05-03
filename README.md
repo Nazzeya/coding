@@ -69,7 +69,8 @@ Reasons why an online store is profitable:
 - At first, you can independently perform the functions of a manager, loader, operator, and so on.
 - The ability to deliver your goods to another city, country, respectively, finding customers from other regions.
 <p align="center">
-  <img width="200" height="200" src="">
+  <img width="200" height="200" src="![image](https://user-images.githubusercontent.com/77354568/116875792-4d9c3f00-ac3d-11eb-838a-5cbf7755828a.png)
+">
 </p>
 
 ## **Risk and dependencies**
