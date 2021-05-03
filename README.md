@@ -16,6 +16,7 @@ Student's  name:
 - Symbat Konys
 
 Group name: SE-2019
+
 Date: 13.04.2021</br>                  
 # Contents
 
