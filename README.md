@@ -69,8 +69,7 @@ Reasons why an online store is profitable:
 - At first, you can independently perform the functions of a manager, loader, operator, and so on.
 - The ability to deliver your goods to another city, country, respectively, finding customers from other regions.
 <p align="center">
-  <img width="200" height="200" src="![image](https://user-images.githubusercontent.com/77354568/116875792-4d9c3f00-ac3d-11eb-838a-5cbf7755828a.png)
-">
+  <img width="700" height="300" src="https://github.com/Nazzeya/coding/blob/main/photo_2021-05-03_13-36-07.jpg">
 </p>
 
 ## **Risk and dependencies**
@@ -107,6 +106,21 @@ The main criteria for the design of an online store:
 Your own corporate identity.This is our style of minimalism.The concept of corporate identity includes its own trademark, logo, slogan, font.
 The golden ratio.We use this in the selection of images, a combination of text and photos, the size of the title and text.
 Convenience for the visitor.Since most users use a mobile phone.And if the design of our site is not adapted for viewing on such devices, it will simply be inconvenient to use it.
+
+# Timetable
+
+Week         | Tasks        | Date
+------------ | -------------|----------------
+W1(5.04.2021) | Project proposal | 8.04-11.04
+W2(12.04.2021) | Project plan    | 14.04-18.04
+W3(19.04.2021) | Examples of pages(website) | 19.04-25.04
+W4(26.04.2021) | HTML(1-2page),CSS,Bootstrap | 26.05-2.05
+W5(3.05.2021) | HTML,CSS,Javascript,JQuery | 3.05-9.05
+W6(10.05.2021) | Database | 10.05-16.05
+W7(17.05.2021) | Express,Node js | 17.05-23.05
+W8(24.05.2021) | Express,Node js | 24.05-30.05
+W9(31.05.2021) | Checking full project | 31.05-6.06
+W10(7.06.2021) | Checking full project,project defence | 7.06-13.06
 
 ## **Proper task description for each team member**
 
