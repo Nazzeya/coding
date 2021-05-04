@@ -12,8 +12,8 @@
 Student's  name:
 
 - Naziya Baisakalova
-- Aruzhan Uskembaeva
 - Symbat Konys
+- Aruzhan Uskembaeva
 
 Group name: SE-2019
 
