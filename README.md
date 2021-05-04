@@ -131,8 +131,8 @@ W10(7.06.2021) | Checking full project,project defence | 7.06-13.06
 
    What does the price come from? We learned one simple formula:
 
-Time + skill = money
-
+Time + skill | = money
+-------------|--------
 
 But this formula is not enough for us, because we also need to solve many other issues, such as what the design will be, how complex and large the functionality will be, and market research. 
 In general, since this is our first project, we will not put a high price. Our price will be based on many factors, such as our time (5-6 weeks), the code will be written from scratch (without constructors), there will be the main functions of any online store (back end), minimalistic design, and so on.The price of our site will be about 100-250 dollars.
