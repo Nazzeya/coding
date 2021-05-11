@@ -116,9 +116,9 @@ W1(5.04.2021) | Project proposal | 8.04-11.04
 W2(12.04.2021) | Project plan    | 14.04-18.04
 W3(19.04.2021) | Examples of pages(website) | 19.04-25.04
 W4(26.04.2021) | HTML(1-2page),CSS,Bootstrap | 26.05-2.05
-W5(3.05.2021) | HTML,CSS,Javascript,JQuery | 3.05-9.05
-W6(10.05.2021) | Database | 10.05-16.05
-W7(17.05.2021) | Express,Node js | 17.05-23.05
+W5(3.05.2021) | HTMLCSS(clothes),Js,JQuery, | 3.05-9.05
+W6(10.05.2021) | Register,Database | 10.05-16.05
+W7(17.05.2021) | Basket | 17.05-23.05
 W8(24.05.2021) | Express,Node js | 24.05-30.05
 W9(31.05.2021) | Checking full project | 31.05-6.06
 W10(7.06.2021) | Checking full project,project defence | 7.06-13.06
