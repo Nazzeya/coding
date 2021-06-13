@@ -104,9 +104,9 @@ Reasons why an online store is profitable:
 
 **Design**
 The main criteria for the design of an online store:
-Your own corporate identity.This is our style of minimalism.The concept of corporate identity includes its own trademark, logo, slogan, font.
-The golden ratio.We use this in the selection of images, a combination of text and photos, the size of the title and text.
-Convenience for the visitor.Since most users use a mobile phone.And if the design of our site is not adapted for viewing on such devices, it will simply be inconvenient to use it.
+- Your own corporate identity.This is our style of minimalism.The concept of corporate identity includes its own trademark, logo, slogan, font.
+- The golden ratio.We use this in the selection of images, a combination of text and photos, the size of the title and text.
+- Convenience for the visitor.Since most users use a mobile phone.And if the design of our site is not adapted for viewing on such devices, it will simply be inconvenient to use it.
 
 # Timetable
 
