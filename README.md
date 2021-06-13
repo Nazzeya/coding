@@ -103,6 +103,7 @@ Reasons why an online store is profitable:
    Reviews. Many people don't trust new brands. The list of features should include reviews, so that anyone can, if desired, leave a review on the product that they themselves purchased. This will help to increase the confidence in the new product or make it clear to the buyer how the product may differ in the characteristics and photos from the reality.
 
 **Design**
+
 The main criteria for the design of an online store:
 - Your own corporate identity.This is our style of minimalism.The concept of corporate identity includes its own trademark, logo, slogan, font.
 - The golden ratio.We use this in the selection of images, a combination of text and photos, the size of the title and text.
